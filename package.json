@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is my (Zachary Watkins) application for automating grocery shopping to an extent. For now, I am building it as a command line tool. The app will use APIs, Google Chrome, Puppeteer, and prompts to take a list of groceries and add them to a shopping cart automatically. The user will be able to edit the shopping cart items before checking out.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
