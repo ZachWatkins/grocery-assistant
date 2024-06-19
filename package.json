@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ZachWatkins/grocery-assistant#readme",
   "dependencies": {
-    "puppeteer": "^22.9.0"
+    "puppeteer": "^22.11.2"
   }
 }
